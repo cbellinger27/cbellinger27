@@ -25,9 +25,7 @@ author:
   avatar           : "cbellinger27/images/ColinBellinger.jpg"
   name             : "Colin Bellinger"
   pronouns         : # example: "she/her"  
-  bio              : "Associate Professor, \\
-School of Electrical Engineering and Computer Science, \\
-University of Ottawa"
+  bio              : "**Associate Professor**, \\School of Electrical Engineering and Computer Science, \\University of Ottawa"
   location         : "Ottawa, Canada"
   uri              : "https://uniweb.uottawa.ca/network/profile/members/6625" # URL
   email            : "colin.bellinger@uottawa.ca" 
