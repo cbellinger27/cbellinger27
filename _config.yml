@@ -22,7 +22,7 @@ repository               : "cbellinger27/cbellinger27.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "cbellinger/images/Colin-Bellinger.jpg"
+  avatar           : "Colin-Bellinger.jpg"
   name             : "Colin Bellinger, Ph.D."
   pronouns         : # example: "she/her"  
   bio              : "Associate Professor"
