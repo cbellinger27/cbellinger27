@@ -9,20 +9,20 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Colin Bellinger - Machine Intelligence and Robot Learning Group"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Colin Bellinger, Ph.D."
 description              : &description "personal description"
 url                      : "https://cbellinger27.github.io/cbellinger27" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "cbellinger27/cbellinger27.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/Colin-Bellinger.jpg"
+  avatar           : "/images/Colin-Bellinger.jpg"
   name             : "Colin Bellinger, Ph.D."
   pronouns         : # example: "she/her"  
   bio              : "Associate Professor"
