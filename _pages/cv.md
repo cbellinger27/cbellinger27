@@ -11,35 +11,25 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Machine Learning, University of Ottawa, 2016
+* Master of Computer Science, Carleton University, 2010
+* Bachelor of Computer Science, Minor in Mathematics, Carleton University, 2007
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Oct. 2018- Aug 2025: Staff Scientist
+  * National Research Council of Canada
+  * Machine Learning and Reinforcement Learning Research
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* July 2018- Oct. 2018: Donald Hill Fellow
+  * Dalhousie University, Computer Science
+  * Machine Learning research
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* May 2016 - July 2018: Postdoctoral Fellow
+  * University of Alberta, AMII
+  * Machine Learning research
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
 
 Publications
 ======
@@ -59,6 +49,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
