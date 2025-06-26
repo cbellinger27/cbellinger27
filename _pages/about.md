@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am joining the School of [Electrical Engineering and Computer Science](https://www.uottawa.ca/faculty-engineering/school-electrical-engineering-computer-science) at the University of Ottawa in September 2025, where I will start the Machine Intelligence and Robot Learning group. I am *currently recruiting motivated Master's and Ph.D. students* with an interest in reinforcement learning (RL), with applications in robotics, automation, science, and more.
+I am joining the School of [Electrical Engineering and Computer Science](https://www.uottawa.ca/faculty-engineering/school-electrical-engineering-computer-science) at the University of Ottawa in September 2025, where I will start the Machine Intelligence and Robot Learning group. I am **currently recruiting motivated Master's and Ph.D. students** with an interest in reinforcement learning (RL), with applications in robotics, automation, science, and more.
 
 Currently, I am a staff scientist at the National Research Council of Canada (NRC), and an Adjunct at Dalhousie Universith in the Faculty of Computer Science. At the NRC, my work focuses on the developement of AI for design problems. In this context, my researching aims to understand and improve the ability of AI methods to learn from limited and costly data. Amongst other things, I am actively working on deep learning from limited and imbalanced data and observation-cost-sensitive reinforcement leanring.
 
