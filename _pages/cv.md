@@ -17,15 +17,15 @@ Education
 
 Work experience
 ======
-* Oct. 2018- Aug 2025: Staff Scientist
+* Staff Scientist: Oct. 2018 - Aug 2025
   * National Research Council of Canada
   * Machine Learning and Reinforcement Learning Research
 
-* July 2018- Oct. 2018: Donald Hill Fellow
+* Donald Hill Fellow: July 2018 - Oct. 2018
   * Dalhousie University, Computer Science
   * Machine Learning research
 
-* May 2016 - July 2018: Postdoctoral Fellow
+* Postdoctoral Fellow: May 2016 - July 2018: 
   * University of Alberta, AMII
   * Machine Learning research
   
