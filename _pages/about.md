@@ -20,9 +20,11 @@ Research Interests
 **Reinforcement Learning (RL)**
 - Goal Conditioned RL, Model-Based RL, Safe RL, RL + Foundation Models,
 - Exploration, Sample Efficiency, Action Contingent Noiselessly Observerable MDPs, Sim2Real
+  
 **Machine Learning (ML)**
 - Learning from Limited and Imbalanced Data
 - Active Learning
-- Explainable and Interpretable ML 
+- Explainable and Interpretable ML
+
 **Applications**
 - Robotics, Healthcare, Industrial Automation, AI for Science, Environment and Climate Change
