@@ -18,7 +18,7 @@ I completed my PhD thesis under the supervision of Dr. Nathalie Japkowicz and Dr
 Research Interests
 ======
 **Reinforcement Learning (RL)**
-- Goal Conditioned RL, Model-Based RL, Safe RL, RL + Foundation Models,
+- Goal Conditioned RL, Model-Based RL, Safe RL, RL + Foundation Models
 - Exploration, Sample Efficiency, Action Contingent Noiselessly Observerable MDPs, Sim2Real
   
 **Machine Learning (ML)**
