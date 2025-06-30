@@ -18,7 +18,7 @@ Currently, I am a Staff Scientist at the [National Research Council of Canada (N
 - Sim2real transfer and model-based control
 - Deep learning from limited and imbalanced datasets  
 
-From 2016–2018, I was a Postdoctoral Fellow at the [University of Alberta](https://www.ualberta.ca/index.html) with the [Alberta Machine Intelligence Institute (Amii)](https://www.amii.ca/), working with Dr. Osmar Zaïane on learning from rare and structured data. I also held a short-term research appointment at Dalhousie University with Dr. Luís Torgo on *lass imbalance and rare case learning.
+From 2016–2018, I was a Postdoctoral Fellow at the [University of Alberta](https://www.ualberta.ca/index.html) with the [Alberta Machine Intelligence Institute (Amii)](https://www.amii.ca/), working with Dr. Osmar Zaïane on learning from rare and structured data. I also held a short-term research appointment at Dalhousie University with Dr. Luís Torgo on class imbalance and rare case learning.
 
 I earned my Ph.D. in Computer Science from the University of Ottawa, where I was supervised by [Dr. Nathalie Japkowicz](https://profiles.ucalgary.ca/nathalie-japkowicz) and Dr. Christopher Drummon. My dissertation, *A Framework for Manifold-Based Synthetic Oversampling*, focused on developing techniques to improve learning from imbalanced data. I completed my Master’s at [Carleton University](https://carleton.ca/) under the supervision of [Dr. John Oommen](https://people.scs.carleton.ca/~oommen/), with a thesis titled *Modelling and Classifying Stochastically Episodic Events*.
 
